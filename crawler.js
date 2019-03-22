@@ -41,7 +41,7 @@ function getDayAll(begin, end) {
 }
 
 function formatUrl(){
-    var days = getDayAll('2018-01-01', '2018-12-31');
+    var days = getDayAll('2018-01-01', '2018-01-02');
     for(var i=0; i<horoscopes.length; i++) {
         for(var j=0; j<days.length; j++) {
             var horo = horoscopes[i];
