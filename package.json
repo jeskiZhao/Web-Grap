@@ -1,0 +1,15 @@
+{
+    "name": "horoscope-grap",
+    "version": "1.0.0",
+    "description": "grap a web site content",
+    "main": "crawler.js",
+    "dependencies": {
+      "cheerio": "^1.0.0-rc.2"
+    },
+    "devDependencies": {},
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 0"
+    },
+    "author": "jeski",
+    "license": "ISC"
+}
